@@ -12,7 +12,7 @@ body {
 
 
 .sec1 {
-    background-image: url("/img/bg.jpg");
+    background-image: url("img/bg.jpg");
     min-height: 1020px;
     background-repeat: no-repeat;
     background-position: center;
@@ -177,12 +177,12 @@ a {
 }
 
 .advantages {
-    background-image: url("/img/advantages-bg.jpg");
+    background-image: url("img/advantages-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
 }
 .road {
-    background-image: url("/img/advantages-bg.jpg");
+    background-image: url("img/advantages-bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
 }
